@@ -40,7 +40,7 @@ class African_Cuisine:
 
      def __init__(self,unique_ingredients,prep_time,cooking_method,nutritional_value):
          self.unique_ingredients = s
-         self.storyLength = storyLength
-         self.ageGroup = ageGroup
-         self.originlanguage = originlanguage
-         self.africanCommunity = africanCommunity
+         self.prep_time= prep_time
+         self.cooking_method = cooking_method
+         self.nutritional_value = nutritional_value
+         
